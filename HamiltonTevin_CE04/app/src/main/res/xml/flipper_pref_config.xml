@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory
+    android:title="Flipper Widget Options">
+    <SwitchPreference
+        android:key="@string/pref_switch"
+        android:title="Auto Advance"
+        android:defaultValue="true"/>
+</PreferenceCategory>
+</PreferenceScreen>

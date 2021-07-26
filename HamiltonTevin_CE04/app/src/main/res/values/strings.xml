@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HamiltonTevin_CE04</string>
+    <string name="reload">reload_image</string>
+    <string name="todo">TODO</string>
+    <string name="no_images">No Images</string>
+    <string name="save">save</string>
+    <string name="pref_switch">pref_Switch</string>
+</resources>
